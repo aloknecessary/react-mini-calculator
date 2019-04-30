@@ -1,3 +1,8 @@
+An sample app to demonstrate the basic mathematical operations. This just includes Add, Subtract, Multiply & Divide.
+## Arch: ## 
+
+Basically, there are two text boxes to input two numbers, and then click on the required operational button to view result.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
